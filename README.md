@@ -20,7 +20,7 @@
 
  ## <img height="25" src="images/statistic.png">  GitHub Stats
   
-<div margin-left="100"><table><tr><td width="50%" margin-left="100"><img src="https://github-readme-streak-stats.herokuapp.com?user=samtush&hide_border=true&ring=fb8c00&sideNums=ffffff&stroke=ffffff&background=000000&sideLabels=ffffff&dates=ffffff&fire=fb8c00&currStreakLabel=fb8c00&currStreakNum=ffffff&date_format=M%20j%5B%2C%20Y%5D"></td><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=samtush&show_icons=true&hide_border=true&title_color=ffffff&icon_color=fb8c00&text_color=939393&bg_color=000000"></td></tr></table></div>
+<div margin-left="100"><table><tr><td width="50%" margin-left="100"><img src="https://github-readme-streak-stats.herokuapp.com?user=samtush&hide_border=true&ring=fb8c00&sideNums=ffffff&stroke=ffffff&background=000000&sideLabels=ffffff&dates=ffffff&fire=fb8c00&currStreakLabel=fb8c00&currStreakNum=ffffff&date_format=M%20j%5B%2C%20Y%5D"></td><td width="50%"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=samtush&show_icons=true&hide_border=true&title_color=ffffff&icon_color=fb8c00&text_color=939393&bg_color=000000"></td></tr></table></div>
 
 <h2><img src="./borderseparator.gif"/></h2>
 
@@ -35,7 +35,7 @@
   **Professional**: Freelance Programmer, Remote Pair-Programming <br><br>
   
  </td>
- <td width="35%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamTush&layout=compact&theme=dark&hide_border=true"></td></tr></table></div>
+ <td width="35%"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SamTush&layout=compact&theme=dark&hide_border=true"></td></tr></table></div>
   
 <p align="center">
   <a href="https://skillicons.dev">
