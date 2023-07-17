@@ -6,7 +6,7 @@
 ## <img height="25" src="images/contact.png">  Connect with Me
 
 &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://github.com/SamTush"><img src="https://res.cloudinary.com/neontuts/image/upload/v1659228895/Icons/linkedin_xaaedy.png" title="LinkedIn | Samson mbaziira" alt="LinkedIn Account" width="30"/></a>
+<a href="https://www.linkedin.com/in/samson-tush"><img src="https://res.cloudinary.com/neontuts/image/upload/v1659228895/Icons/linkedin_xaaedy.png" title="LinkedIn | Samson mbaziira" alt="LinkedIn Account" width="30"/></a>
 &nbsp; &nbsp;
 <a href="https://www.pinterest.com/samsonTm/"><img src="images/pinterest.png" title="Pinterest | Mbaziira Samson" alt="Pinterest Account" width="30"/></a>
 &nbsp; &nbsp;
